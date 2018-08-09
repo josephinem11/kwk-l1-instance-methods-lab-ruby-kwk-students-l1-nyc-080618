@@ -1,5 +1,5 @@
 class Dog
-end
+def initalize
 dog_sound = Dog.new
 
   
