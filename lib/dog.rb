@@ -4,6 +4,7 @@ def initalize (sound)
 end
 def sound
   return "Woof!"
-# dog_sound = Dog.new
+end
+
 
   
