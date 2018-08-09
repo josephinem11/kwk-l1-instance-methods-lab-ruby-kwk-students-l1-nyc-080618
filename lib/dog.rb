@@ -1,8 +1,5 @@
 class Dog
-def initalize (sound)
-  @sound = bark
-end
-def sound
+def bark
   return "Woof!"
 end
 
