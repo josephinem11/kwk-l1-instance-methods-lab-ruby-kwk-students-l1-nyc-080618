@@ -3,6 +3,7 @@ def initalize (sound)
   @sound = bark
 end
 def sound
-dog_sound = Dog.new
+  return "Woof!"
+# dog_sound = Dog.new
 
   
