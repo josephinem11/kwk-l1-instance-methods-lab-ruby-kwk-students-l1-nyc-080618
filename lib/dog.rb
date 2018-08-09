@@ -1,4 +1,4 @@
 class Dog
 end
-dog_
+dog_sound = dog.new
   
