@@ -1,6 +1,7 @@
 class Dog
 def initalize (sound)
-  @sound
+  @sound = bark
+  
 dog_sound = Dog.new
 
   
